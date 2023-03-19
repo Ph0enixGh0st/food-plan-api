@@ -12,11 +12,13 @@ Or download and unpack ZIP file from GIT Hub repository: https://github.com/Ph0e
 # Prerequisites
 First create .env file in root directory with the following keys and values:
 
+```
 DB_NAME=dbname
 DB_USER=rootuser
 DB_PASS=changeme
 DJANGO_SECRET_KEY=changeme
 DJANGO_ALLOWED_HOSTS=127.0.0.1
+```
 
 Python3 and Docker should be already installed.
 Please specify your Docker username and token in GitHub Secrets.
