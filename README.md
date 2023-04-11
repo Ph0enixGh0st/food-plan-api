@@ -1,5 +1,7 @@
 # Recipe API.
 DRF based recipe API that allows to create, modify, and filter recipes and ingredients.
+This is a Test Driven Development project with the use of GitHub actions to perform automated tests.
+Packed into Docker container and ready for deploy with AWS or likes.
 
 ## How to install
 Using GitHub CLI:
