@@ -29,6 +29,6 @@ Then use the following command to run the Docker container:
 docker-compose up
 ```
 
-## Deployed API is available [here](http://ec2-18-210-17-23.compute-1.amazonaws.com/api/docs)
+## Deployed API sreenshot below, was deployed with AWS [here](http://ec2-18-210-17-23.compute-1.amazonaws.com/api/docs)
 
 <img width="1463" alt="image" src="https://user-images.githubusercontent.com/108229516/226186944-4b2af4cf-356e-4144-93b4-a916d2dbf99e.png">
